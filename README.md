@@ -1,4 +1,4 @@
-### Hi there 👋
+### Nguyen Trung Anh 😎 - a fan of doing coding and researching for knowledge, also a reinforcement learner. 👋
 
 <!--
 **anhtrungg/anhtrungg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
