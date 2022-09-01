@@ -1,6 +1,6 @@
 ### Nguyen Trung Anh 😎 I'm a hardworking individual, also a reinforcement learner.
-   • For my detailed profile, checkout: https://www.linkedin.com/in/anhtrungnguyen/ 
-   • For contacting, checkout: anhtrung.work@gmail.com
+  - For my detailed profile, checkout: https://www.linkedin.com/in/anhtrungnguyen/ 
+  - For contacting, checkout: anhtrung.work@gmail.com
 
 <!--
 **anhtrungg/anhtrungg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
